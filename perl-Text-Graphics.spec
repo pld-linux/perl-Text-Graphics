@@ -26,7 +26,7 @@ Text-Graphics - zestaw narzêdzi do renderowania grafiki tekstowej.
 
 %build
 perl Makefile.PL
-make
+%{__make}
 
 %install
 rm -rf $RPM_BUILD_ROOT
