@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Text
-%define	pnam	Graphics
+%define		pdir	Text
+%define		pnam	Graphics
 Summary:	Text::Graphics perl module
 Summary(pl):	Modu³ perla Text::Graphics
 Name:		perl-Text-Graphics
