@@ -27,7 +27,7 @@ Text::Graphics - zestaw narzêdzi do renderowania grafiki tekstowej.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
