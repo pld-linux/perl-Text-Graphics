@@ -3,7 +3,7 @@ Summary:	Text-Graphics perl module
 Summary(pl):	Modu³ perla Text-Graphics
 Name:		perl-Text-Graphics
 Version:	1.0001
-Release:	4
+Release:	5
 License:	GPL
 Group:		Development/Languages/Perl
 Group(de):	Entwicklung/Sprachen/Perl
