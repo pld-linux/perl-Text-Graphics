@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Text
 %define	pnam	Graphics
-Summary:	Text-Graphics perl module
-Summary(pl):	Modu³ perla Text-Graphics
+Summary:	Text::Graphics perl module
+Summary(pl):	Modu³ perla Text::Graphics
 Name:		perl-Text-Graphics
 Version:	1.0001
 Release:	8
@@ -16,10 +16,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Text-Graphics - a text graphics rendering toolkit.
+Text::Graphics - a text graphics rendering toolkit.
 
 %description -l pl
-Text-Graphics - zestaw narzêdzi do renderowania grafiki tekstowej.
+Text::Graphics - zestaw narzêdzi do renderowania grafiki tekstowej.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
