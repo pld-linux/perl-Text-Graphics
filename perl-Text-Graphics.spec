@@ -6,7 +6,7 @@
 %define		pdir	Text
 %define		pnam	Graphics
 Summary:	Text::Graphics perl module
-Summary(pl):	Modu³ perla Text::Graphics
+Summary(pl.UTF-8):   ModuÅ‚ perla Text::Graphics
 Name:		perl-Text-Graphics
 Version:	1.0001
 Release:	10
@@ -24,8 +24,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Text::Graphics - a text graphics rendering toolkit.
 
-%description -l pl
-Text::Graphics - zestaw narzêdzi do renderowania grafiki tekstowej.
+%description -l pl.UTF-8
+Text::Graphics - zestaw narzÄ™dzi do renderowania grafiki tekstowej.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
