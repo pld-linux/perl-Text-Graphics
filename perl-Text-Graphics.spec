@@ -6,7 +6,7 @@
 %define		pdir	Text
 %define		pnam	Graphics
 Summary:	Text::Graphics perl module
-Summary(pl.UTF-8):   Moduł perla Text::Graphics
+Summary(pl.UTF-8):	Moduł perla Text::Graphics
 Name:		perl-Text-Graphics
 Version:	1.0001
 Release:	10
