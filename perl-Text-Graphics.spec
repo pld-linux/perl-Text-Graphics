@@ -9,7 +9,7 @@ Summary:	Text::Graphics perl module
 Summary(pl.UTF-8):	Moduł perla Text::Graphics
 Name:		perl-Text-Graphics
 Version:	1.0001
-Release:	10
+Release:	11
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
