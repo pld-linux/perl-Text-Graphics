@@ -4,7 +4,6 @@
 
 %define		pdir	Text
 %define		pnam	Graphics
-%include	/usr/lib/rpm/macros.perl
 Summary:	Text::Graphics perl module
 Summary(pl.UTF-8):	Moduł perla Text::Graphics
 Name:		perl-Text-Graphics
